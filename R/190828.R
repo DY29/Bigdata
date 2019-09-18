@@ -33,6 +33,7 @@ Embarked_NA
 Fare_NA <- df %>%filter(!is.na(Fare)) 
 Fare_NA
 
+
 ##마지막 모든 NA를뺴고 출력하기
 All_NA <- df %>%filter(!is.na(Fare) & !is.na(Pclass) & !is.na(Embarked)) 
 All_NA
