@@ -1,2 +1,3 @@
 # Bigdata
-데이터 사이언스 작업 소스코드
+데이터 사이언스 공부한 소스코드
+자주 사용하는 라이브러리: Pandas, Numpy, Tensorflow, Keras
